@@ -21,8 +21,8 @@ I enjoy learning how things work under the hood, experimenting with different to
 
 ### 💡 Projects
 
-- **Currently Working On:** [Project Name] — A short description of what you're building.
-- **Personal Favorite:** [Project Name] — A short description of why this project stands out to you.
+- **Currently Working On:** Scrapbook — A short description of what you're building.
+- **Personal Favorite:** Songket — A short description of why this project stands out to you.
 - **More Projects:** Check out my pinned repositories below for some of my other work!
 
 ### 💬 Ask Me About
@@ -35,8 +35,8 @@ I enjoy learning how things work under the hood, experimenting with different to
 
 Always open to interesting conversations, collaborations, and new opportunities.
 
-- **LinkedIn:** [Your LinkedIn]
-- **Email:** [Your Email]
+- **LinkedIn:** Kazi Walid Hasan
+- **Email:** kaziwalid107@gmail.com
 
 ### ⚡ A Little More About Me
 
