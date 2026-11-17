@@ -21,8 +21,8 @@ I enjoy learning how things work under the hood, experimenting with different to
 
 ### 💡 Projects
 
-- **Currently Working On:** Scrapbook — A short description of what you're building.
-- **Personal Favorite:** Songket — A short description of why this project stands out to you.
+- **Currently Working On:** Scrapbook — An all-in-one personal media & memory diary for Android (and iOS where supported). Log the movies, TV shows, music, restaurants, and places that make up your days and see them come alive on a clean, visual calendar.
+- **Personal Favorite:** Songket — SongKet is an Android messaging application that enables peer-to-peer communication using Bluetooth mesh networking. The app allows users to send messages without requiring internet connectivity, making it useful for scenarios where traditional networks are unavailable. We have added core features like one-to-one DM independent from the mesh network.
 - **More Projects:** Check out my pinned repositories below for some of my other work!
 
 ### 💬 Ask Me About
